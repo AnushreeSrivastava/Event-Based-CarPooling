@@ -1,0 +1,47 @@
+  .container-fluid {
+    background: url("../../assests/background-event.jpg") no-repeat fixed bottom;
+    max-width: inherit;
+  }
+  p
+  {
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 1.5em;
+    text-align: left;
+    margin-top: 15px;
+    margin-left: 20px;
+  }
+  .p-rider {
+    font-weight: bold;
+    margin-bottom: 0rem;
+  }
+  span {
+    font-weight: normal;
+    font-family: serif;
+  }
+  .list-group-item {
+    float: left;
+    border: 1px solid black;
+    margin: 5px;
+  }
+  .list-group-item p{
+     font-size: 1.2em;
+  }
+  .span-reqested, .span-error, .span-norides {
+    font-size: 1.25em;
+    color: darkred;
+  }
+  .h2-request {
+    margin-top: 70px;
+  }
+
+
+  .eventHeading {
+    color: #b22546;
+    font-size: 4em;
+    font-variant: all-petite-caps;
+    font-family: monospace;
+  }
+  .card-img-top {
+    display: block;
+  }

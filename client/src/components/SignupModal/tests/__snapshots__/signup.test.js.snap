@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Singup Modal should render Signup 1`] = `ShallowWrapper {}`;
+
+exports[`Singup Modal should render Signup modal 1`] = `ShallowWrapper {}`;

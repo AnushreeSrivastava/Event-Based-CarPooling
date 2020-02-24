@@ -1,0 +1,12 @@
+{
+    "SG" : {
+            "params" : {"client_id":"MTkwMzc2MzB8MTU3MTc4MjA1Ni41Mw"},
+            "api_url_base" : "https://api.seatgeek.com/2/",
+            "header" : {"Content-Type": "application/json"}
+            },
+    "EB" : {
+            "params" : {"client_id":"MTkwMzc2MzB8MTU3MTc4MjA1Ni41Mw"},
+            "api_url_base" : "https://api.seatgeek.com/2/",
+            "header" : {"Content-Type": "application/json"}
+            }
+}
